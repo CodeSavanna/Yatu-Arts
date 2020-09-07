@@ -1,0 +1,4 @@
+web_venv/
+__pycache__/
+django_session/
+.vscode/
